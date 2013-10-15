@@ -1,0 +1,179 @@
+/*
+	Background Stretcher jQuery Plugin
+	© 2011 ajaxBlender.com
+	For any questions please visit www.ajaxblender.com 
+	or email us at support@ajaxblender.com
+	color aiesec #12489E  #A9A9A9
+*/
+
+body {	overflow: hidden;}
+
+#background{
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center; 
+
+}
+.circle{
+	padding-top: 100px;
+}
+.board {
+	background-image: url(../img/circleboard.png);
+	width: 450px;
+	height: 350px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	margin: auto auto;
+	text-align: center;
+	opacity:0.85;
+}
+.board .content{
+	padding: 28% 13%; 
+	display: inline-block; 
+	background: none;
+	font-family: "Arial";
+	color: #ffffff ;
+}
+/* scale */
+.board{ zoom: 0.9; -moz-transform: scale(0.9); -moz-transform-origin: 0 0}
+
+/*       */
+
+.board .name{	
+	font-size: 75px;
+	font-weight: 300;
+	line-height: 50pt;
+	font-family: 'EB Garamond', serif;
+	
+}
+.board .kind{
+	font-size: 18px;
+	font-weight: 100;
+	font-family: 'Arial', serif;
+}
+.board .pronunciation{
+	font-size: 18px;
+	font-weight: 100;
+	font-family: "Arial", Times, serif;
+}
+.board .meaning{
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 22px;
+	margin: 25px 0 0 0;
+	width: 385px;
+	font-family: "Arial", Times, serif;
+	
+}
+.board .labelemail{
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 22px;
+	margin: 20px 0 0 0;
+	width: 385px;
+	font-family: 'Arial', serif;
+}
+
+#mc_embed_signup{
+	display: inline-block;
+	text-align: center;	
+	margin: 2% 0 0 15px;
+}
+#mc_embed_signup .input-box{
+	background-image: url("../img/input_bg.png"); 
+	width: 349px; 
+	height: 49px;
+	padding: 1px ; 
+	background-repeat: no-repeat;
+}
+
+#mc_embed_signup input {
+	padding-top: 12px;
+	font-size: 19px;
+	border:none; 
+	background-color: transparent ; 
+	width: 261px;
+	margin: 0; 
+	box-shadow: none; 
+	padding-left: 10px;
+	color: none;
+	text-align: center;
+	-moz-box-shadow: none; -webkit-box-shadow: none;}
+
+#mc_embed_signup input:focus {
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	
+}
+
+
+#mc_embed_signup .button { margin-top: 7px; width: 40px; height: 33px;  border: none;}
+#mc_embed_signup .button:hover {cursor: pointer;}
+#mc_embed_signup .button:active {}
+#mc_embed_signup .small-meta {font-size: 11px;}
+#mc_embed_signup .nowrap {white-space:nowrap;}  
+#mc_embed_signup .clear {clear:none; display:inline;}
+
+#mc_embed_signup label {display:block;}
+#mc_embed_signup input.email {display:inline-block;}
+
+
+#mc_embed_signup div#mce-responses {float:left; top:-1.4em; padding:0em .5em 0em .5em; overflow:hidden; width:90%;margin: 0 5%; clear: both;}
+#mc_embed_signup div.response {margin:1em 0; padding:1em .5em .5em 0; font-weight:bold; float:left; top:-1.5em; z-index:1; width:80%;}
+#mc_embed_signup #mce-error-response {display:none;}
+#mc_embed_signup #mce-success-response {color:#529214; display:none;}
+#mc_embed_signup label.error {display:block; float:none; width:auto; margin-left:1.05em; text-align:left; padding:.5em 0;}
+
+
+/* fix place holder */
+input, textarea, select, .uneditable-input {
+    color: #ffffff;
+    font-weight: 200;
+}
+
+input::-webkit-input-placeholder {
+   color: #ffffff;
+   font-style: italic;
+   font-weight: 200;
+   text-align:center;
+}
+
+input:-moz-placeholder {  
+   color: #ffffff;
+   font-style: italic;
+   font-weight: 200;
+   text-align:center;
+}
+/* */
+
+/* share button */
+
+a.home_share_button {
+  height: 48px;
+  width: 48px;
+  padding: 0px;
+  display: inline-block;
+  margin: 6% 0 0 0;
+  vertical-align: middle;
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size: 100% 100%;
+
+}
+
+#btnHomeShareFacebook:hover{
+	background-image: url(../img/facebookhover.png);
+}
+
+#btnHomeShareTwitter:hover{
+	background-image: url(../img/twitterhover.png); 
+}
+
+#btnHomeShareFacebook {
+  background-image: url(../img/facebook.png);
+}
+
+#btnHomeShareTwitter {
+  background-image: url(../img/twitter.png); 
+}
