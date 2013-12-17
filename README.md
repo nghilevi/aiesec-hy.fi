@@ -14,3 +14,6 @@ http://tympanus.net/Tutorials/PolaroidPhotobarGallery/
 + internships.html -> Information on how to apply for an AIESEC internship.
 + recruit.html -> Information on how to become a member of AIESEC HY
 + team.html -> Introduce about the current AIESEC HYers. This page was built upon the idea of Misfitwearables's team page. http://misfitwearables.com/team
+
+Link to website: gdriv.es/aiesec-hy
+PhoneGap Built Link: https://build.phonegap.com/apps/700797/share
