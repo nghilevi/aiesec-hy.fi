@@ -5,7 +5,7 @@ AIESEC Helsinki University's website
 
 AIESEC is the world's largest youth-run organization. As a leader of  AIESEC HY (Helsingin Yliopisto)'s Communication team, I plant marketing strategies especially for AIESEC recruitment and AIESEC HY's website. I made this website from pure HTML, CSS and JavaScript.
 
-[ScreenShot](https://raw.github.com/vinhnghi223/aiesec-hy.fi/master/aiesec-hy.fi_.jpg)
+![ScreenShot](https://raw.github.com/vinhnghi223/aiesec-hy.fi/master/aiesec-hy.fi_.jpg)
 
 Below are some information about how the site was implemented:
 
