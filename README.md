@@ -1,6 +1,3 @@
-aiesec-hy.fi
-============
-
 Introduction
 ------
 AIESEC Helsinki University's website. Link to website: http://www.codingisloving.com/WEBAPPS/aiesechy/gallery.html
