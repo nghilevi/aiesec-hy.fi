@@ -1,8 +1,8 @@
 Introduction
 ------
-AIESEC Helsinki University's website. Link to website: http://www.codingisloving.com/WEBAPPS/aiesechy/gallery.html
+AIESEC Helsinki University's website version 1.0. [Link to website](http://goo.gl/5D9V7i)
 
-AIESEC is the world's largest youth-run organization. As a leader of  AIESEC HY (Helsingin Yliopisto)'s Communication team, I plant marketing strategies especially for AIESEC recruitment and AIESEC HY's website. I made this website from pure HTML, CSS and JavaScript.
+AIESEC is the world's largest youth-run organization. As a leader of  AIESEC HY (Helsingin Yliopisto)'s Communication team, I plant marketing strategies especially for AIESEC recruitment and AIESEC HY's website. I made this website using Bootstrap 3, HTML, CSS, JavaScript, jQuery.
 
 Screenshot
 ------
